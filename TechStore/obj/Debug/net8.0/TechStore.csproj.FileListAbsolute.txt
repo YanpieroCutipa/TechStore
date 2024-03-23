@@ -59,3 +59,4 @@ c:\Users\yanpi\Downloads\TechStore\TechStore\TechStore\obj\Debug\net8.0\refint\T
 c:\Users\yanpi\Downloads\TechStore\TechStore\TechStore\obj\Debug\net8.0\TechStore.pdb
 c:\Users\yanpi\Downloads\TechStore\TechStore\TechStore\obj\Debug\net8.0\TechStore.genruntimeconfig.cache
 c:\Users\yanpi\Downloads\TechStore\TechStore\TechStore\obj\Debug\net8.0\ref\TechStore.dll
+c:\Users\yanpi\Downloads\TechStore\TechStore\TechStore\obj\Debug\net8.0\TechStore.sourcelink.json
